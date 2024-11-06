@@ -6,4 +6,5 @@
 <li> You have to install typescript. Go your command line and paste this command (npm install -g typescript)</li>
 <li> As well as install this one (npm i -g ts-node)</li>
 <b>If you want to check properly install the ts in system used this command (tsc -v)</b>
+<b> This is the VsCode extension for ts: (JavaScript and TypeScript Nightly) </b>
 </ul>
