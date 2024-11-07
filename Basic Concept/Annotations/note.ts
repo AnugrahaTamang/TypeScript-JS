@@ -13,5 +13,4 @@ let  isvalue: boolean = true;
 isvalue = false;
 console.log(isvalue);
 
-//function Annotation
 
